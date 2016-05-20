@@ -12,8 +12,6 @@
 * Tener en mente en la propuesta Volkswagen los curriculums/metas de
   gobiernos locales para asegurar algo de apoyo politico.
 
-
-
 ## Citizen science.
 
 * Buscar JCOM Masters et al. (2016) "Science Learning via
@@ -36,3 +34,8 @@
   trabajo de la asociacion de astronomos del pacifico. 
 * Como Andean ROAD unirnos a Fiat Fisica para conseguir microfunding
   para proyectos que sean del orden de 500 USD.
+* Hablar con ACAC o el observatorio colombiano de ciencia para empezar
+  a medir "Public Engagement Appraisal" dentro de las universidades
+  (siguiendo modelo de Pedro Russo en Holanda). Este es un punto clave
+  para calibrar/cuantificar interaccion de ciencia con el publico. 
+
