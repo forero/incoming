@@ -9,4 +9,7 @@
 * Contactar a Nathalia (Planetario) para ver que necesita de mi en la
   propuesta del "media-lab". 
 * Planillar contribuciones del nodo para alimenentar el Blog de la
-  pagina del Andean ROAD
+  pagina del Andean ROAD. 
+* Pedirle a Angela (ROAD) que averigue detalles sobre el programa que
+  permitio el intercambio de profesores Medellin-Estados UNidos.  
+* 

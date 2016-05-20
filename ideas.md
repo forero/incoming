@@ -23,3 +23,16 @@
   citizen science?
 * Como hacemos para que la gente nos cuente lo que quiere/necesita
   aprender/saber? 
+* Hacer escuelas completas donde los estudiantes aprenden trabajando
+  en proyectos tipo citizen science. 
+* Contactar investigadores chilenos para saber si les interesa hacer
+  proyectos de citizen science. Es algo relacionado con goals
+  del gobierno chileno?  
+
+
+## Futuro ROAD
+
+* Crear una night sky network como la que describio Vivian Wild en el
+  trabajo de la asociacion de astronomos del pacifico. 
+* Como Andean ROAD unirnos a Fiat Fisica para conseguir microfunding
+  para proyectos que sean del orden de 500 USD.
