@@ -12,4 +12,6 @@
   pagina del Andean ROAD. 
 * Pedirle a Angela (ROAD) que averigue detalles sobre el programa que
   permitio el intercambio de profesores Medellin-Estados UNidos.  
-* 
+* Escribir un post para el blog de la OAD hablando de marco logico y
+  de lo que aprendi en el curso de Carlo. Tal vez un mini-ejemplo de
+  marco logico.
