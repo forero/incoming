@@ -1,0 +1,25 @@
+# 20.05.2016
+
+## Volkswagen
+
+* Utilizar la base de datos de AstroEDU para definir una base de
+  actividades  para la propuesta de la Volkswagen.
+* Invitar a Moncada a aportar ideas para la propuesta de la
+  Volkswagen. 
+* Open Knowledge: es posible tener algun input del publico objetivo de
+  la propuesta de la Volkswagen sobre el tipo de material/intervencion
+  que quieren/necesitan? 
+* Tener en mente en la propuesta Volkswagen los curriculums/metas de
+  gobiernos locales para asegurar algo de apoyo politico.
+
+
+
+## Citizen science.
+
+* Buscar JCOM Masters et al. (2016) "Science Learning via
+  participation in online citizen science". 
+* En que manera el economista Uniandino de temas de
+  participacion/common knowledge puede estar interesado en temas de
+  citizen science?
+* Como hacemos para que la gente nos cuente lo que quiere/necesita
+  aprender/saber? 
