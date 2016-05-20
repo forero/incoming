@@ -99,4 +99,18 @@ German Chaparro
   de Data Science. El objetivo es medir la efectividad de cursos online
   vs. cursos cara-a-cara. 
 
+* (Tarea JF). Escribir un formulario de invitacion/ contacto para
+  gente de SOCHIAS interesadas en participar mas activamente en el
+  Andean ROAD. 
+
+* Desde Chile hay interese de oficinas de comunicacion, redes de
+  maestros y aficionados en participar en el Andean ROAD. Como podemos
+  empezar a coordinar el trabajo de esos interesados con los contactos
+  que ya tenemos dentro de SOCHIAS?
+
+* Posible visita de Jaime a Santiago en Julio para conversar estos
+  temas con el director de SOCHIAS sobre el tema del item anterior. 
+ 
+
+
 

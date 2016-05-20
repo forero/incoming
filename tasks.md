@@ -15,3 +15,10 @@
 * Escribir un post para el blog de la OAD hablando de marco logico y
   de lo que aprendi en el curso de Carlo. Tal vez un mini-ejemplo de
   marco logico.
+* Mover la info de meeting notes de este repositorio al del Andean
+  ROAD. 
+* Ir a los assesmentes de coursera para revisar cual es el tipo de
+  preguntas que hacen y modelar nuestro trabajo de assesment por la
+  misma linea.
+* Revisar articulos para German (Workshop astronomia en los Andes
+  II). 
